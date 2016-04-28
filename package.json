@@ -4,11 +4,12 @@
   "description": "Starting my first workflow.",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/thijsmoens/workflow.git"
   },
   "author": "Thijs Moens",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
     "gulp-util": "^3.0.7"
   }
 }
